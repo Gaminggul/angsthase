@@ -6,7 +6,7 @@ Ich kam auf die Idee nachdem ich das Spiel als Werbung gesehen habe, es aber zu 
 ## Wir lädt man Angsthase für Android runter?
 Du ziehst das Projekt auf deinen Desktop und mit dem Command flutter ```flutter build apk``` erstellst du die APK. Danach aufs Handy, installieren, spaß haben!
 Einfacher?
-Klar, unter download einfach die APK runterladen!
+Klar, unter '''Releases''' einfach die APK mit dem Namen '''Angsthase.apk''' runterladen!
 
 ## Und was ist mit IOS?
 Wird demnächst ergänzt!
