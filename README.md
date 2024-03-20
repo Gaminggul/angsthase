@@ -1,16 +1,10 @@
-# angsthase
+# Angsthase
 
-A new Flutter project.
+Eine Handyapp für das Kartenspiel Angsthase.
+Ich kam auf die Idee nachdem ich das Spiel als Werbung gesehen habe, es aber zu teuer fand. Also wollte ich das Spiel fürs Handy programmieren um es zu jederzeit bei mir zu haben.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Wir lädt man es runter?
+Du gehst in 
+build/app/outputs
+und lädst dir app-release.apk runter.
+Installieren. Spaß haben!
