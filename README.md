@@ -10,5 +10,5 @@ Du ziehst das Projekt auf deinen Desktop und mit dem Command flutter ```flutter 
 Einfacher? <br>
 Klar, unter ```Releases``` einfach die APK mit dem Namen ```Angsthase.apk``` runterladen!
 
-## Und was ist mit IOS?
+## Und was ist mit iOS?
 Wird demnächst ergänzt!
